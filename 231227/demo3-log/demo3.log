@@ -1,0 +1,4 @@
+2023/12/27 20:26:07.613672 /home/jlqu/test/go/231227/demo3-log/main.go:34: 这是一条很普通的日志。
+[小王子]2023/12/27 20:26:07.613828 /home/jlqu/test/go/231227/demo3-log/main.go:37: 这是一条很普通的日志。
+2023/12/27 20:32:50.287170 /home/jlqu/test/go/231227/demo3-log/main.go:35: 这是一条很普通的日志。
+[小王子]2023/12/27 20:32:50.287332 /home/jlqu/test/go/231227/demo3-log/main.go:38: 这是一条很普通的日志。

@@ -1,0 +1,4 @@
+[demo4]2023/12/27 20:39:40 /home/jlqu/test/go/231227/demo4-log2/main.go:16: 这是一条测试的log
+[demo4]2023/12/27 20:41:45 /home/jlqu/test/go/231227/demo4-log2/main.go:23: 这是一条测试的log
+[demo4]2023/12/27 20:43:19 /home/jlqu/test/go/231227/demo4-log2/main.go:27: 这是一条测试的log
+[demo4]2023/12/27 20:43:25 /home/jlqu/test/go/231227/demo4-log2/main.go:28: 这是一条测试的log
